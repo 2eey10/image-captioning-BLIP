@@ -83,6 +83,7 @@ BLIP (Bootstrapping Language-Image Pre-training) is a framework for pre-training
     ```
 
 5. **Calculate BLEU Score:**
+   * BLEU: *Biligual Evaluation Understudy Score*
 
     Calculate the BLEU score to evaluate the generated captions.
 
