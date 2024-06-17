@@ -107,9 +107,10 @@ BLIP (Bootstrapping Language-Image Pre-training) is a framework for pre-training
     print("BLEU Score (Conditional):", bleu_score_conditional)
     print("BLEU Score (Unconditional):", bleu_score_unconditional)
     ```
-
+![test1](https://github.com/2eey10/image-captioning-BLIP/assets/133326837/10811c33-94e3-4d7e-ab06-89082d714912)
+![스크린샷 2024-06-17 오후 4 25 27](https://github.com/2eey10/image-captioning-BLIP/assets/133326837/67e250d0-dbc6-4bf8-be83-3c049c7cd869)
 ## File Structure
-
+```
 .
 ├── README.md
 ├── blip_main.py
@@ -121,3 +122,4 @@ BLIP (Bootstrapping Language-Image Pre-training) is a framework for pre-training
 │       ├── test1.jpg
 │       └── test2.jpg
 └── requirements.txt
+```
