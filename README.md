@@ -124,3 +124,20 @@ BLIP (Bootstrapping Language-Image Pre-training) is a framework for pre-training
 │       └── test2.jpg
 └── requirements.txt
 ```
+
+
+
+
+# Image Captioning using BLIP2
+This project demonstrates the use of BLIP2 (Bootstrapping Language-Image Pre-training) for generating image captions on the COCO validation dataset. It includes the process of generating captions for a given image and calculating the BLEU score to evaluate the generated captions against reference captions.
+
+## Overview
+BLIP2 is a framework for pre-training vision-language models. This project uses the load_model_and_preprocess method from the LAVIS library to generate captions for images in the COCO validation dataset and calculates BLEU scores to evaluate their accuracy.
+
+
+## Prerequisites
+Python 3.7+
+PyTorch
+LAVIS library
+NLTK
+Pillow
